@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  color: blue;
+  margin: 20px;
+}
+.result{
+  margin: 20px;
+}
+button{
+  cursor: pointer;
+}
+
